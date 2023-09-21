@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.6.0_32-b05 (Sun Microsystems Inc.)
+Class-Path: lib/ejbClient.jar lib/ISPack.jar lib/itext-2.0.2.jar lib/i
+ Text-2.1.7.jar lib/jbossall-client.jar lib/jdts.jar lib/jndi.jar lib/
+ kunststoff.jar lib/log4j-1.2.14.jar lib/NGEjbCallBroker.jar lib/NGUti
+ lity.jar lib/niplj.jar lib/nsms.jar lib/omnishared.jar lib/wfdesktop.
+ jar lib/WFSClient.jar lib/WFSShared.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: ng_me_uploadtowf_latest.NG_ME_UploadToWF_Latest
+
