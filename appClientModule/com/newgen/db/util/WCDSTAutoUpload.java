@@ -10,6 +10,8 @@
 //Description                :This auto program will be responsible for creating workitems from DST text file that will be present on the Network Share location..The functionality of this utility is explained in detail in section 2.1. Other salient features of this utility are as follows:Utility will read text file first and get tiff file name which it will search in the folder and if tiff file is found it will create and introduce the workitem in the workflow.Secondly, utility after reading entire text file and created workitems will then read the folder for any tiff files present in that folder. If found any tiff file it will create workitem and introduce in the workflow.
 */
 
+//Test out changes and commiting on GIT 21-Sep-2023 
+
 package com.newgen.db.util;
 
 import java.io.*;
